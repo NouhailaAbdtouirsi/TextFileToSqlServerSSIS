@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Atelier1_Txt_to_BD", "Atelier1_Txt_to_BD.dtproj", "{A82D1CDB-A8E8-4B9A-9C87-D20773E1A5E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A82D1CDB-A8E8-4B9A-9C87-D20773E1A5E4}.Development|Default.ActiveCfg = Development
+		{A82D1CDB-A8E8-4B9A-9C87-D20773E1A5E4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE7F8F41-6608-444C-9B13-159B8EAED222}
+	EndGlobalSection
+EndGlobal
